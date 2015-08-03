@@ -160,3 +160,16 @@ cmd下通过使用where命令，发现脚本和命令文件均位于安装位置
 ###[cocos2d-android](https://code.google.com/p/cocos2d-android/)
 
 已经凋零，留以纪念。
+
+Update 1
+--------
+
+**8/4/2015 2:17:52 AM**
+
+更新如下资料，
+
+1. [零基础学习Cocos2d-x](http://cn.cocos2d-x.org/special) 源自官网；
+2. [黑米GameDev街区](http://www.himigame.com/) 不要让任何事情成为你不去学习的理由；
+3. [知易游戏开发教程](http://www.cnblogs.com/cocos2d-x/tag/cocos2d-x/)；
+4. [Cocos2d-Java](http://blog.cocoseditor.com/) 许久未更新；
+5. [知乎问答](http://www.zhihu.com/question/21114802) 最高票答案告诉我们一个道理：坚持就是胜利。
