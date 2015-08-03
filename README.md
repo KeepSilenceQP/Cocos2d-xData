@@ -87,7 +87,11 @@ cmd下通过使用where命令，发现脚本和命令文件均位于安装位置
 
 + 对于Android平台上程序的生成，关键是借助NDK开发，其中我所感兴趣的是**基于Cocos2d-x所生成的项目进行二次开发，把Android平台的UI等内容应用于程序中**。目前我不知道是否可行，料想应该是应用Android所提供的NDK技术，这一方面需要留下伏笔，有待日后补充。下图是我浏览Cocos2d-x所生成的Android项目的结构，所发现的应该与多平台支持实现所相关的一系列库文件，
 
+![image-obj](https://raw.githubusercontent.com/KeepSilenceQP/Cocos2d-xData/master/images/image-obj.png)
+
 + 下图是我浏览搭建教程时发现的不错的对于Android.mk文件的配置信息，截图如下，
+
+![image-config](https://raw.githubusercontent.com/KeepSilenceQP/Cocos2d-xData/master/images/image-config.png)
 
 三、开发入门教程
 --------------
